@@ -1,5 +1,7 @@
-# Coursera_Capstone
-Repository for my Capstone Project on Coursera IBM Data Science
+# Coursera Capstone
+## Final Project - Battle of the Neighborhoods
+-----------------------------------------------------------
+
+## Introduction
 
 
-Here I'm uploading my Jupyter Notebooks for the Capstone Project
